@@ -5,15 +5,13 @@ title: Jekyll Resume
 email: email@domain.com
 description: Jekyll Resume is a mega simple resume theme for Jekyll.
 baseurl: ""
-url: "http://mattcouchman.co.uk/jekyll-resume"
-name: Matt Couchman
-job: front end engineer
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+url: "http://zile zhang.co.uk/jekyll-resume"
+name: Zile Zhang
+job: student
+location: guangzhou, China
+languages: chinese、english、cantonese
+github_username: zile_newmedia
+email_address: 1394440262@qq.com
 
 # Build settings
 markdown: kramdown
